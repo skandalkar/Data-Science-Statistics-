@@ -43,6 +43,6 @@ To get started with this project, clone the repository and follow the installati
 
 ## Conclusion
 
-This project serves as an introduction to predictive modelling and data science concepts, helping beginners build a strong foundation. Feel free to contribute, provide feedback, or ask questions!
+This project serves as an introduction to predictive modelling and data science concepts, helping beginners build a strong foundation. Feel free to contribute, provide feedback, or ask questions! 
 
 
